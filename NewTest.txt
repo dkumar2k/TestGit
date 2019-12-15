@@ -1,3 +1,6 @@
 This is test,
 
 Leraning how to Git and GitHub as centeral or remote repository
+I am updating my code
+I will commit it
+then I will push my new code to GitHub
